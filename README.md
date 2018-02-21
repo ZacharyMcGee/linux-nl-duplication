@@ -1,7 +1,7 @@
 # linux-nl-duplication
 A recreation of the Linux nl command
 
-**build:** 'gcc nl.c -o nl'
+**build:** `gcc nl.c -o nl`
 
 **usage:**
 
@@ -27,10 +27,10 @@ Every argument afterwards will be assumed to be a file to read.
 
 Examples:
 
-'''
+```
 ./nl file
 ./nl file file 
 ./nl -ba file
 ./nl -bt file file
 ./nl -bn -s" - " file
-'''
+```
