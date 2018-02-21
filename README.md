@@ -23,11 +23,12 @@ Will print:
 
 **FILE:** `filename.`
 
-Every argument afterwards will be assumed to be a file to read.
+Every argument afterwards will be assumed to be a file to read, if no argument then stdin is read.
 
 **Examples commands:**
 
 ```
+./nl
 ./nl file
 ./nl file file 
 ./nl -ba file
