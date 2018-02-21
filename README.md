@@ -25,7 +25,7 @@ Will print:
 
 Every argument afterwards will be assumed to be a file to read.
 
-**Examples:**
+**Examples commands:**
 
 ```
 ./nl file
