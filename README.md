@@ -7,13 +7,13 @@ usage:
 
 nl [-bSTYLE] [-sSTRING] [FILE...]
 
-######STYLE: -b with options a, n, and t.
+###### STYLE: -b with options a, n, and t.
 
 -ba (All Lines) Print line number on all lines 
 -bn (No Lines) Print line number on no lines
 -bt (Non-Empty Lines) Prine line number on non empty lines
 
-######STRING: -s with a string following.
+###### STRING: -s with a string following.
 
 -s" : "
 
@@ -21,7 +21,7 @@ Will print:
 
 1 : The line
 
-######FILE: filename.
+###### FILE: filename.
 
 Every argument afterwards will be assumed to be a file to read.
 
