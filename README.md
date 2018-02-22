@@ -1,5 +1,5 @@
 # linux-nl-duplication
-A recreation of the Linux nl command
+A re-creation of the Linux nl command
 
 **build:** `gcc nl.c -o nl`
 
