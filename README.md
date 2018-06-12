@@ -10,7 +10,7 @@ A re-creation of the Linux nl command
 ```
 -ba (All Lines) Print line number on all lines 
 -bn (No Lines) Print line number on no lines
--bt (Non-Empty Lines) Prine line number on non empty lines
+-bt (Non-Empty Lines) Print line number on non empty lines
 ```
 
 **STRING:** `-s with a string following.`
